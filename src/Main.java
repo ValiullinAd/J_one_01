@@ -3,6 +3,6 @@ public class Main {
         int price = 2_000_000_000;
         int count = 500_000_000;
         int total = price + count;
-        System.out.println(total);        
+        System.out.println("Total =" + total);
     }
 }
